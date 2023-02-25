@@ -1,1 +1,1 @@
-[{"dst":"default","gateway":"192.168.3.1","protocol":"dhcp","metric":100,"flags":[]},{"dst":"192.168.3.0/24","protocol":"kernel","scope":"link","prefsrc":"192.168.3.73","metric":100,"flags":[]}]
+
