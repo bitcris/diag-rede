@@ -9,3 +9,7 @@ else
   #MOBILE/UNROOT
   python3 ./lanmobi.py
 fi 
+
+echo
+echo
+python3 ./timex.py
