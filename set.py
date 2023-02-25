@@ -1,6 +1,6 @@
 import requests
 import json
-import subprocess
+
 
 print("TESTANDO CONEXÃO")
 
